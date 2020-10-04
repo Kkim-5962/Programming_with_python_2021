@@ -29,4 +29,3 @@ print(city_density)
 x = 1 * 2 + 6 / 3
 print(x)
 
-x 1!= 2
